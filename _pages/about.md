@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Junteng Liu**. I am a first-year PhD candidate at the HKUST NLP Group, where I am supervised by [Prof. Junxian He](#). My research focuses on natural language processing and machine learning.
+Hi, I'm **Junteng Liu**. I am a first-year PhD candidate at the HKUST NLP Group, where I am supervised by Prof. Junxian He. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
